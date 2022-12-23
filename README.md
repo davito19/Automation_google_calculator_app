@@ -63,18 +63,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Automation is a powerful tool for testers, it helps speed up testing processes and gives the development team confidence in the software product being developed.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is a small introductory example to the automation of mobile applications for the android operating system using the google calculator as input.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+You can download the app at this link: <a href="https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en_US&gl=US">Google Calculator</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,6 +224,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/davito19/Automation_google_calculator_app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davidbonett19
+[google-calculator]: https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en_US&gl=US
+
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
