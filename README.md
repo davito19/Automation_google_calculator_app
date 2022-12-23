@@ -75,51 +75,40 @@ You can download the app at this link: <a href="https://play.google.com/store/ap
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This is the list of languages, frameworks and libraries used for this project:
 
 * [![Java][Java.io]][Java-url]
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Cucumber][Cucumber.io]][Cucumber-url]
+* [![SerenityBDD][Serenity-BDD]][Serenity-BDD-url]
+* [![Appium][Appium.io]][Appium-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+For this project it is necessary to have previously configured the  `JAVA_HOME` and `ANDROID_HOME` variables, in addition to the `appium server`
+
+To get a working local copy, follow these simple steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* appium
   ```sh
-  npm install npm@latest -g
+  npm install -g appium
   ```
+* Java
+* SDK 
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Here is an example of how to install the project in your local environment up your app._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   git clone https://github.com/davito19/Automation_google_calculator_app
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,9 +118,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project is a simple example of getting started with a mobile automation, use it to improve your google calculator automation or as a template for other automations you want to do.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://appium.io/docs/en/about-appium/intro/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,15 +129,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
+- [x] Add first example
+- [ ] Add more features
+- [ ] Add new interactions
 - [ ] Multi-language Support
-    - [ ] Chinese
+    - [ ] English
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/davito19/Automation_google_calculator_app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,9 +172,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+David Bonett - [@DavidBonett1](https://twitter.com/DavidBonett1) - omardbonett@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/davito19/Automation_google_calculator_app](https://github.com/davito19/Automation_google_calculator_app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,12 +183,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
@@ -226,21 +210,14 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/davidbonett19
 [google-calculator]: https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en_US&gl=US
 
-[product-screenshot]: images/screenshot.png
-
-[Java.io]: https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white
+[Java.io]: https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=DiJava&logoColor=white
 [Java-url]: https://www.java.com/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Cucumber.io]: https://img.shields.io/badge/Cucumber-1dbb68?style=for-the-badge&logo=Cucumber&logoColor=white
+[Cucumber-url]: https://cucumber.io/
+[Serenity-BDD]: https://img.shields.io/badge/SerenityBDD-000000?style=for-the-badge&logo=Serenity&logoColor=white
+[Serenity-BDD-url]: https://serenity-bdd.info/
+[Appium.io]: https://img.shields.io/badge/Appium-563D7C?style=for-the-badge&logo=appium&logoColor=white
+[Appium-url]: https://appium.io/
+
+
+
