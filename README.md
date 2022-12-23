@@ -14,19 +14,19 @@
 <br />
 <div align="center">
  
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Automation_google_calculator_app</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A simple mobile automation with appium and serenity bdd + Script, for google calculator
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/davito19/Automation_google_calculator_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/davito19/Automation_google_calculator_app">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/davito19/Automation_google_calculator_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/davito19/Automation_google_calculator_app/issues">Request Feature</a>
   </p>
 </div>
 
