@@ -5,7 +5,7 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 
 public class Resultado implements Question<Boolean> {
-
+    //comentario
     private String resultant;
 
     public Resultado elValor(String resultado){
